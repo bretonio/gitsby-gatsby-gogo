@@ -36,4 +36,4 @@ Here is an example of using the grid, for a 3 column layout:
         <p>Content Here</p>
     </div>
 </div>
-```
+```# gitsby-gatsby-gogo
